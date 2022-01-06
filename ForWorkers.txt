@@ -1,0 +1,3 @@
+joe rod 8 10 120 0
+klp hhjhj 5 2 45 1
+kjkj asdasd 12 20 10 2

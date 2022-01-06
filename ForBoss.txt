@@ -1,0 +1,4 @@
+3
+name surname 10000
+name2 surname2 15000
+nmae3 surname3 12000
